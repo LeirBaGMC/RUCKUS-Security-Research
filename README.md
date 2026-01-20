@@ -1,4 +1,4 @@
-# Analysis of Security Vulnerabilities in RUCKUS Implementations 🛡️
+# Analysis of Security Vulnerabilities in RUCKUS Implementations
 ## Case Study: Latin American Higher Education Environments
 
 ### Executive Summary
@@ -15,7 +15,8 @@ This research evaluates the impact of critical flaws in RUCKUS wireless infrastr
 To monitor the security posture, the following strategic metrics were defined:
 
 <p align="center">
-  <img src="assets/image_c8f647.png" width="500" alt="CISO Dashboard KPIs">
+  <img width="603" height="230" alt="CISO" src="https://github.com/user-attachments/assets/a99150c5-381e-4c15-be7f-04c55a919efc" />
+
 </p>
 
 * **Secure Firmware Coverage:** 100% Target.
