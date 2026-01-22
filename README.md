@@ -1,5 +1,5 @@
 # Analysis of Security Vulnerabilities in RUCKUS Implementations
-## 🎯 Case Study: Latin American Higher Education Environments
+## Case Study: Latin American Higher Education Environments
 
 ![Security Research](https://img.shields.io/badge/Focus-Network%20Security-red)
 ![Platform](https://img.shields.io/badge/Platform-RUCKUS%20IoT%20Suite-blue)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📥 Research Resources
+## Research Resources
 Access the full technical documentation below:
 
 | 📄 **Full Academic Paper** | 📊 **Research Poster** |
@@ -19,7 +19,7 @@ Access the full technical documentation below:
 
 ---
 
-## ⛓️ Attack Chain Visualization
+## Attack Chain Visualization
 A key finding of this study is the **escalation path** from an external threat to core infrastructure compromise. 
 
 > *The diagram below illustrates how an attacker pivots from a compromised Access Point to the central Management Controller.*
@@ -51,6 +51,6 @@ To transition from reactive patching to a **Defense-in-Depth** posture, this res
 ---
 <div align="center">
   
-  *Research conducted by* **Gabriel Minda** *Systems Engineering Student @ UIDE* [LinkedIn](PON_TU_LINK_AQUI) • [Email](mailto:gabominda1@gmail.com)
+  *Research conducted by* **Gabriel Minda** *Systems Engineering Student @ UIDE* [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) • [Email](mailto:gabominda1@gmail.com)
 
 </div>
