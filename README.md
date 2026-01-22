@@ -37,7 +37,7 @@ A key finding of this study is the **escalation path** from an external threat t
 
 ---
 
-## 🛡️ Mitigation & Performance Indicators (KPIs)
+## Mitigation & Performance Indicators (KPIs)
 To transition from reactive patching to a **Defense-in-Depth** posture, this research proposes a CISO Dashboard approach monitored by specific KPIs.
 
 <p align="center">
